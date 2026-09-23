@@ -16,6 +16,10 @@ This project implements a **complete embedded motion control system** based on a
 
 The system combines **digital design, hardware design, and embedded communication**, making it a full-stack FPGA engineering project.
 
+<p align="center">
+  <img src="stepper_motor_block_design_IP.png" alt="Block Design IP" width="100%">
+</p>
+
 ---
 
 ## 🧠 System Architecture
